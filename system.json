@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
-  "manifest": "",
+  "manifest": "https://github.com/Akexis/unofficial-the-one-ring-2nd-edition/blob/main/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
