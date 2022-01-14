@@ -1,0 +1,22 @@
+{
+  "unofficial-the-one-ring-2nd-edition.AbilityStr": "Strength",
+  "unofficial-the-one-ring-2nd-edition.AbilityCon": "Constitution",
+  "unofficial-the-one-ring-2nd-edition.AbilityDex": "Dexterity",
+  "unofficial-the-one-ring-2nd-edition.AbilityInt": "Intelligence",
+  "unofficial-the-one-ring-2nd-edition.AbilityWis": "Wisdom",
+  "unofficial-the-one-ring-2nd-edition.AbilityCha": "Charisma",
+
+  "unofficial-the-one-ring-2nd-edition.AbilityStrAbbr": "str",
+  "unofficial-the-one-ring-2nd-edition.AbilityConAbbr": "con",
+  "unofficial-the-one-ring-2nd-edition.AbilityDexAbbr": "dex",
+  "unofficial-the-one-ring-2nd-edition.AbilityIntAbbr": "int",
+  "unofficial-the-one-ring-2nd-edition.AbilityWisAbbr": "wis",
+  "unofficial-the-one-ring-2nd-edition.AbilityChaAbbr": "cha",
+
+  "unofficial-the-one-ring-2nd-edition.EffectCreate": "Create Effect",
+  "unofficial-the-one-ring-2nd-edition.EffectToggle": "Toggle Effect",
+  "unofficial-the-one-ring-2nd-edition.EffectEdit": "Edit Effect",
+  "unofficial-the-one-ring-2nd-edition.EffectDelete": "Delete Effect",
+
+  "unofficial-the-one-ring-2nd-edition.Add": "Add"
+}
